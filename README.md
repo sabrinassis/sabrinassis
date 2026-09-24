@@ -28,5 +28,5 @@ Acredito que a tecnologia mais bem-sucedida é aquela que entende as pessoas. Go
 
 ### 📊 Estatísticas do GitHub
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sabrinassis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img align="left" src="https://github-stats-extended.vercel.app/api?username=sabrinassis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </p>
