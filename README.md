@@ -1,6 +1,6 @@
-# <img src="https://github.com/sabrinassis.png" width="35" height="35" style="border-radius: 50%;"/> Sabrina Assis
+# 👩🏼‍💻 Sabrina Assis
 
-### Olá, mundo! 👋
+### Olá, mundo! 🌍
 
 Estudante de **Análise e Desenvolvimento de Sistemas**.
 Apaixonada por criar soluções digitais que unificam a engenharia de software, a segurança e a experiência do usuário.
@@ -16,7 +16,7 @@ Acredito que a tecnologia mais bem-sucedida é aquela que entende as pessoas. Go
 
 ---
 
-### 🌍 Tecnologias & Ferramentas
+### 👾 Tecnologias & Ferramentas
 
 * **Front-end**
 <div style="display: inline_block">
@@ -25,16 +25,19 @@ Acredito que a tecnologia mais bem-sucedida é aquela que entende as pessoas. Go
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
 
+
 * **Linguagens**
 <div style="display: inline_block">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
 
 * **Ferramentas & Versionamento**
 <div style="display: inline_block">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
+
 
 ---
 
