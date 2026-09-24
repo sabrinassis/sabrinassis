@@ -26,7 +26,7 @@ Acredito que a tecnologia mais bem-sucedida é aquela que entende as pessoas. Go
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-*
+
 
 * **Ferramentas**
 <div style="display: inline_block">
