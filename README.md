@@ -10,8 +10,8 @@ Acredito que a tecnologia mais bem-sucedida é aquela que entende as pessoas. Go
 
 ### ☕ Atualmente
 
-- Estou trabalhando em sistemas web para pet shop e projetos acadêmicos (front-end e modelagem de banco de dados).
-- Atualmente explorando **Full Stack, Cibersegurança e UX/UI Design**.
+- Estou trabalhando em sistemas web para pet shop e em projetos acadêmicos (front-end e modelagem de banco de dados).
+- Atualmente explorando **Full Stack, Cibersegurança, Dados e UX/UI Design**.
 - Trago uma base em psicologia e um olhar analítico voltado à usabilidade e ao comportamento humano, somado à disciplina e ao rigor técnico de experiências anteriores.
 
 ---
