@@ -30,7 +30,7 @@ Acredito que a tecnologia mais bem-sucedida é aquela que entende as pessoas. Go
 | :--- | :--- |
 | **Classe:** Barista do Código | **Disciplina & Foco:** █ █ █ █ █ █ █ █ █ ░ [90%] |
 | **Origem:** Psicologia ➔ Tecnologia | **Lógica & Resolução:** █ █ █ █ █ █ █ █ ░ ░ [85%] |
-| **Guilda:** ADS • FMU | **Empatia & UX/UI:** █ █ █ █ █ █ █ █ █ █ [98%] |
+| **Guilda:** ADS • UNICID | **Empatia & UX/UI:** █ █ █ █ █ █ █ █ █ █ [98%] |
 | **Nível:** Lv. 24 (Dev Cafeinada) | **XP & Progresso:** █ █ █ █ █ █ █ █ ░ ░ [80%] |
 
 </div>
@@ -39,7 +39,7 @@ Acredito que a tecnologia mais bem-sucedida é aquela que entende as pessoas. Go
 
 ## Quest Log (Atualmente)
 
-- Desenvolvendo sistemas web para pet shop e aprimorando repositórios acadêmicos (front-end e modelagem de dados).
+- Desenvolvendo sistemas web para pet shop (front-end e modelagem de dados).
 - Explorando Full Stack, Cibersegurança, Dados e UX/UI Design.
 - Aplicando a base em psicologia para estruturar interfaces centradas na experiência do usuário.
 
