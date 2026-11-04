@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="370" viewBox="0 0 900 370">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#161b22"/><stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="370" rx="10" fill="url(#bg)" stroke="#30363d"/>
+  <!-- barra de título -->
+  <path d="M0 10 Q0 0 10 0 H890 Q900 0 900 10 V40 H0 Z" fill="#1c2128"/>
+  <rect y="40" width="900" height="1" fill="#30363d"/>
+  <circle cx="26" cy="20" r="6" fill="#8a6a4a"/>
+  <circle cx="46" cy="20" r="6" fill="#c8a27a"/>
+  <circle cx="66" cy="20" r="6" fill="#e3c9a5"/>
+  <text x="450" y="25" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="13" fill="#8b949e">sabrina.json</text>
+  <!-- números de linha -->
+  <g font-family="Consolas,Menlo,monospace" font-size="15" fill="#484f58" text-anchor="end">
+    <text x="50" y="76">1</text><text x="50" y="102">2</text><text x="50" y="128">3</text>
+    <text x="50" y="154">4</text><text x="50" y="180">5</text><text x="50" y="206">6</text>
+    <text x="50" y="232">7</text><text x="50" y="258">8</text><text x="50" y="284">9</text>
+    <text x="50" y="310">10</text>
+  </g>
+  <!-- código -->
+  <g font-family="Consolas,Menlo,monospace" font-size="15" fill="#8b949e">
+    <text x="70" y="76">{</text>
+    <text x="94" y="102"><tspan fill="#c8a27a">"nome"</tspan>: <tspan fill="#a5c9a1">"Sabrina Assis"</tspan>,</text>
+    <text x="94" y="128"><tspan fill="#c8a27a">"cargo"</tspan>: <tspan fill="#a5c9a1">"Desenvolvedora Full Stack (em formação)"</tspan>,</text>
+    <text x="94" y="154"><tspan fill="#c8a27a">"formacao"</tspan>: <tspan fill="#a5c9a1">"Análise e Desenvolvimento de Sistemas"</tspan>,</text>
+    <text x="94" y="180"><tspan fill="#c8a27a">"background"</tspan>: <tspan fill="#a5c9a1">"Psicologia"</tspan>,</text>
+    <text x="94" y="206"><tspan fill="#c8a27a">"stack"</tspan>: [<tspan fill="#a5c9a1">"HTML"</tspan>, <tspan fill="#a5c9a1">"CSS"</tspan>, <tspan fill="#a5c9a1">"JavaScript"</tspan>, <tspan fill="#a5c9a1">"Python"</tspan>, <tspan fill="#a5c9a1">"C"</tspan>],</text>
+    <text x="94" y="232"><tspan fill="#c8a27a">"explorando"</tspan>: [<tspan fill="#a5c9a1">"Cibersegurança"</tspan>, <tspan fill="#a5c9a1">"Dados"</tspan>, <tspan fill="#a5c9a1">"UX/UI"</tspan>],</text>
+    <text x="94" y="258"><tspan fill="#c8a27a">"diferencial"</tspan>: <tspan fill="#a5c9a1">"olhar de psicologia aplicado à experiência do usuário"</tspan>,</text>
+    <text x="94" y="284"><tspan fill="#c8a27a">"objetivo"</tspan>: <tspan fill="#a5c9a1">"primeira oportunidade em tecnologia"</tspan>,</text>
+    <text x="94" y="310"><tspan fill="#c8a27a">"combustivel"</tspan>: <tspan fill="#a5c9a1">"café"</tspan></text>
+    <text x="70" y="336">}</text>
+  </g>
+  <!-- barra de status -->
+  <path d="M0 346 H900 V360 Q900 370 890 370 H10 Q0 370 0 360 Z" fill="#c8a27a"/>
+  <text x="20" y="362" font-family="Consolas,Menlo,monospace" font-size="11" fill="#0d1117">● disponível para oportunidades</text>
+  <text x="880" y="362" text-anchor="end"
