@@ -12,7 +12,7 @@
 
 ---
 
-## 👩‍💻 Sobre mim
+## 👩🏼‍💻 sobre mim
 
 Estudante de **Análise e Desenvolvimento de Sistemas**, vinda da **Psicologia**. Essa transição me ensinou algo que levo para o código: a melhor tecnologia é a que entende as pessoas.
 
