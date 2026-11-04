@@ -1,48 +1,41 @@
 <div align="center">
 
-# ☕ Sabrina Assis
-### **Análise e Desenvolvimento de Sistemas
+<img src="./assets/banner.svg" alt="Sabrina Assis — Desenvolvedora Full Stack em formação" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&customColorList=12,12,12&height=120&section=header&text=&animation=fadeIn" alt="Banner" />
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sabrinassis&color=c8a27a&style=flat-square&label=VISITANTES" alt="Visitantes" />
-  <img src="https://img.shields.io/github/followers/sabrinassis?color=21262d&style=flat-square&label=SEGUIDORES&logo=github&logoColor=c8a27a" alt="Seguidores" />
-  <img src="https://img.shields.io/github/stars/sabrinassis?color=21262d&style=flat-square&label=STARS&logo=github&logoColor=c8a27a" alt="Stars" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=sabrinassis&color=c8a27a&style=for-the-badge&label=VISITAS" alt="Visitas" />
+<img src="https://img.shields.io/github/followers/sabrinassis?style=for-the-badge&color=21262d&label=SEGUIDORES&logo=github&logoColor=c8a27a" alt="Seguidores" />
+<img src="https://img.shields.io/github/stars/sabrinassis?style=for-the-badge&color=21262d&label=STARS&logo=github&logoColor=c8a27a" alt="Stars" />
 
 </div>
 
 ---
 
-## ☕ Sobre mim
+## 👩‍💻 Sobre mim
 
-Estudante de Análise e Desenvolvimento de Sistemas. Acredito que a tecnologia mais bem-sucedida é aquela que entende as pessoas. Gosto de unir a estrutura lógica da programação com uma estética apurada, transformando ideias em interfaces funcionais e agradáveis.
+Estudante de **Análise e Desenvolvimento de Sistemas**, vinda da **Psicologia**. Essa transição me ensinou algo que levo para o código: a melhor tecnologia é a que entende as pessoas.
+
+Estou construindo minha base em **Full Stack**, com interesse em **Cibersegurança**, **Dados** e **UX/UI**, unindo estrutura lógica com usabilidade para criar interfaces funcionais, acessíveis e agradáveis de usar.
 
 ---
 
-## 📜 Ficha da Desenvolvedora
-
-> *"Transformando lógica e café em código limpo."*
+## 🧾 Perfil
 
 <div align="center">
-
-| ⚡ STATUS | 📊 ATRIBUTOS DO SISTEMA |
-| :--- | :--- |
-| **Classe:** Dev Cafeinada | **Disciplina & Foco:** `██████████` [95%] |
-| **Origem:** Psicologia ➔ Tecnologia | **Lógica & Resolução:** `█████████░` [90%] |
-| **Guilda:** ADS • UNICID | **Empatia & UX/UI:** `██████████` [98%] |
-| **Nível Atual:** Lv. 23 (Barista do Código) | **XP & Progresso:** `████████░░` [80%] |
-
+  <img src="./assets/ficha.svg" alt="Perfil profissional de Sabrina Assis" width="100%" />
 </div>
 
 ---
 
-## ⚡ Quest Log (Atualmente)
+## ⚡ Em andamento
 
-- 💻 Desenvolvendo sistemas web para pet shop e aprimorando repositórios acadêmicos (front-end e modelagem de dados).
-- 🛡️ Explorando Full Stack, Cibersegurança, Dados e UX/UI Design.
-- 🧠 Aplicando a base em psicologia para estruturar interfaces centradas na experiência do usuário.
+| | Projeto / Estudo |
+| :-: | :-- |
+| 💻 | **Sistema web para pet shop**: front-end e modelagem de dados |
+| 📚 | **Repositórios acadêmicos**: boas práticas, organização e documentação |
+| 🧭 | **Trilhas de estudo**: Full Stack, Cibersegurança, Dados e UX/UI |
+| 🧠 | **Psicologia aplicada**: interfaces centradas na experiência do usuário |
 
 ---
 
@@ -54,19 +47,16 @@ Estudante de Análise e Desenvolvimento de Sistemas. Acredito que a tecnologia m
 
 ---
 
-## 📊 Estatísticas de Batalha
+## 📊 Estatísticas
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabrinassis&theme=tokyonight" alt="Perfil Detalhado" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinassis&layout=compact&theme=vue-dark&hide_border=true&text_color=f5f5f0&bg_color=0d1117" alt="Linguagens" />
-</p>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sabrinassis&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c8a27a&icon_color=c8a27a&text_color=c9d1d9&rank_icon=github" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinassis&layout=compact&hide_border=true&bg_color=0d1117&title_color=c8a27a&text_color=c9d1d9" alt="Linguagens mais usadas" />
+</div>
 
 ---
 
-## 🐍 Trilha de Contribuições
+## 🐍 Contribuições
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sabrinassis/sabrinassis/output/github-snake-dark.svg" alt="Snake Game" />
@@ -74,7 +64,11 @@ Estudante de Análise e Desenvolvimento de Sistemas. Acredito que a tecnologia m
 
 ---
 
-## ☁️ Contato
+## 📬 Vamos conversar?
 
-- **LinkedIn:** [sabrinassis](https://linkedin.com/in/sabrinassis)
-- **E-mail:** contatosabrina.assis@gmail.com
+<div align="center">
+
+<a href="https://linkedin.com/in/sabrinassis"><img src="https://img.shields.io/badge/LinkedIn-sabrinassis-0d1117?style=for-the-badge&logo=linkedin&logoColor=c8a27a" alt="LinkedIn" /></a>
+<a href="mailto:contatosabrina.assis@gmail.com"><img src="https://img.shields.io/badge/E--mail-contatosabrina.assis@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=c8a27a" alt="E-mail" /></a>
+
+</div>
