@@ -1,7 +1,7 @@
 <div align="center">
 
 # ☕ Sabrina Assis
-### **Análise e Desenvolvimento de Sistemas • ADS FMU**
+### **Análise e Desenvolvimento de Sistemas
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&customColorList=12,12,12&height=120&section=header&text=&animation=fadeIn" alt="Banner" />
 
